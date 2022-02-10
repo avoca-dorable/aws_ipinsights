@@ -5,4 +5,10 @@ Here we used the AWS Ip insight model as an example to demonstrate how to bring 
 
 More details can be found on this [blog](https://medium.com/p/6e8067227ceb/edit). 
 
+Step 1: The original IP Insights tutorial from AWS. More detailed illustration can be found here. 
+
+Step 2: Adding noise to data.
+
+Step 3: Using an alternative approach.
+
 Have Fun!
